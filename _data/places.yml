@@ -1,0 +1,11 @@
+- title: "Topolcany"
+  data_set: "02"
+  location:
+    latitude: 48.5592401
+    longitude: 18.1737768
+
+- title: "FIIT STU"
+  data_set: "02"
+  location:
+    latitude: 48.1538406
+    longitude: 17.07196

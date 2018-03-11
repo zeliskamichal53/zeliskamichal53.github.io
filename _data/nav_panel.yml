@@ -1,0 +1,9 @@
+nav_panel:
+ - name: "Home"
+   url: / 
+ - name: "My study"   
+   url: /my-study
+ - name: "Hobby"
+   url: /hobby 
+ - name: "About" 
+   url: /about

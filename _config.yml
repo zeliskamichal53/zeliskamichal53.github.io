@@ -1,0 +1,12 @@
+title: Vitajte!
+description: Stránka vznikla ako projekt k predmetu Webové publikovanie
+author: Michal Zeliska
+email: zeliskamichal53@gmail.com
+lang: sk
+markdown: kramdown
+plugins:
+       - jekyll-maps
+       - jekyll-youtube
+maps:
+    google:
+      api_key: AIzaSyBV1u6kSP0p2Ldq5nXnzya6w8Y5ppWaMZw

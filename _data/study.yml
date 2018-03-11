@@ -1,0 +1,110 @@
+- semester: "ZS 2015/2016"
+  predmety:
+    - name: "Matematická analýza"
+      skratka: "MA"
+      url:
+    - name: "Alegbra a diskrétna matematika"  
+      skratka: "ADM"
+      url:
+    - name: "Metódy inžinierskej práce"  
+      skratka: "MIP"
+      url:
+    - name: "Anglický jazyk"
+      skratka: "AJ"
+      url:
+    - name: "Procedurálne programovanie"
+      skratka: "PP" 
+      url:
+    - name: "Princípy počítačového inžinierstva"
+      skratka: "PPI"
+      url:
+- semester: "LS 2015/2016"
+  predmety:
+    - name: "Objektovo orientované programovanie"
+      skratka: "OOP"
+      url:
+    - name: "Teoretické základy informatických vied"  
+      skratka: "TZIV"
+      url:
+    - name: "Matematická logika"  
+      skratka: "MA"
+      url:
+    - name: "Fyzika"
+      skratka: "FYZ"
+      url:
+    - name: "Podnikanie a manažment"
+      skratka: "PAM" 
+      url:
+- semester: "ZS 2016/2017"
+  predmety:
+    - name: "Dátové štruktúry a algoritmy"
+      skratka: "DSA"
+      url: 
+    - name: "Operačné systémy"  
+      skratka: "OS"
+      url:
+    - name: "Počítačové a komunikačné siete"  
+      skratka: "PKS"
+      url:
+    - name: "Pravdepodobnosť a štatistika"
+      skratka: "PAS"
+      url: 
+    - name: "Právo informačných a komunikačných technológií "
+      skratka: "PIKT" 
+      url:
+- semester: "LS 2016/2017"
+  predmety:
+    - name: "Umelá inteligencia"
+      skratka: "UI"
+      url: 
+    - name: "Databázové systémy"  
+      skratka: "DBS"
+      url:
+    - name: "Princípy softvérového inžinierstva"  
+      skratka: "PSI"
+      url:
+    - name: "Systémové programovanie a asemblery"
+      skratka: "SPAASM"
+      url: 
+    - name: "Analýza a zložitosť algoritmov"
+      skratka: "AZA" 
+      url:
+- semester: "ZS 2017/2018"
+  predmety:
+    - name: "Interakcia človeka s počítačom"
+      skratka: "IČP"
+      url: 
+    - name: "Manažérska ekonómia"  
+      skratka: "ME"
+      url:
+    - name: "Modelovanie softvéru"  
+      skratka: "MSOFT"
+      url:
+    - name: "Paralelné programovanie"
+      skratka: "PARALPR"
+      url: 
+    - name: "Princípy počítačovej grafiky a spracovania obrazu"
+      skratka: "PPGSO" 
+      url:
+- semester: "LS 2017/2018 - Aktuálny"
+  predmety:
+    - name: "Webové publikovanie"
+      skratka: "WPUB"
+      url: /my-study/WPUB
+    - name: "Princípy informačnej bezpečnosti"  
+      skratka: "PIB"
+      url:
+    - name: "Princípy informačných systémov"  
+      skratka: "PIS"
+      url:
+    - name: "Spoločenské súvislosti informatiky a informačných a komunikačných technológií"
+      skratka: "SSIIT"
+      url:   
+      
+    
+      
+
+
+     
+
+    

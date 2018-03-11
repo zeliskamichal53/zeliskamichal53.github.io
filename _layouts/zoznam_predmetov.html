@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+	<br>		
+	 {% for semester in site.data.study reversed %}
+	 {{ semester.semester }}	 
+	<ul>
+			{% for predmet in semester.predmety %}		
+				{% if predmet.url %}
+				<li>{{ predmet.skratka }} - <a href={{ predmet.url }}>{{ predmet.name }}</a></li>
+				{% else %}
+				<li>{{ predmet.skratka }} - {{ predmet.name }}</li>
+				{% endif %}					   
+			{% endfor %}				  
+	</ul>	
+	 {% endfor %}	
