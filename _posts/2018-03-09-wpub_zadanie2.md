@@ -11,6 +11,7 @@ zdroj: https://wiki.fiit.stuba.sk/study/bc/info/wp/2017-18/zadanie2/
 ## <a href="{{ page.zdroj }}">Transformácia vybraného dokumentu do formátu DocBook</a>
 ____
 ## Dokumentácia
+{% raw %}
 Na vypracovanie tohto zadania som si vybral časť bakalárskej práce zo Slovenskej poľnoshopodárskej univerzity v Nitre.
 Štandardné členenie textu bolo dosiahnuté pomocou elementov <chapter> - kapitola, <section> - podkapitoly, <appendix> - dodatok,
 <para>, <literallayout>. 
@@ -40,6 +41,7 @@ Na trasformáciu do výsledného formátu pdf som použil poskytnutú šablónu 
 Pri písaní xml súboru som narazil na problém pri ktorom som nemohol uviesť do podkapitoly 4.4.1.1 pod obázok 4.1 ďaľšie 2 tabuľky,
 pretože pri spustení .bat súboru na preklad zamrzol na riadku Making portrait pages on A4 paper (210mmx297mm) a nebol schopný dokončiť
 pomocný súbor fo.xml.
+{% endraw %}
 
  
  
