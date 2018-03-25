@@ -7,7 +7,6 @@ deadline: 2018-03-26 23:59
 permalink: /my-study/WPUB/zadanie2/
 zdroj: https://wiki.fiit.stuba.sk/study/bc/info/wp/2017-18/zadanie2/
 ---
-&lt; &gt;
 ## <a href="{{ page.zdroj }}">Transformácia vybraného dokumentu do formátu DocBook</a>
 ____
 ## Dokumentácia
