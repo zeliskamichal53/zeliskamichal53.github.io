@@ -30,13 +30,13 @@ Na zoznam použitej literatúry boli použité elementy &lt;bibliography> a &lt;
 pomocou elementu &lt;xref linkend="..." /&gt;. Vo výsledom dokumente nie sú citované a uvedené všetky zdroje, pretože v pôvodnej práci ich je 
 veľmi veľa a ich implementácia by bola rovnaká. 
 Tabuľky som vytváral pomocou elementu &lt;table&gt; s atribútom ID kvôli odkazom v texte pomocou &lt;xref&gt; (rovnako ako pri citovaní zdrojov).
-Následne bola použita klasická konštrukcia pomocou elementov &lt;tgroup&gt;, &lt;thead&gt;, &lt;tbody&gt;, &lt;row&gt;.
+Následne bola použitá klasická konštrukcia pomocou elementov &lt;tgroup&gt;, &lt;thead&gt;, &lt;tbody&gt;, &lt;row&gt;.
 Obrázky som vkladal pomocou elementu &lt;figure&gt; taktiež s atribútom ID kvôli odkazovaniu cez xref. Vo &lt;figure&gt; elemente
 som ešte použil elementy &lt;mediaobject&gt;, &lt;imageobject&gt; a následne element &lt;imagedata&gt; s atribútom cesty k obrázku.
 Na vytvorenie indexu som použil element &lt;index/&gt; pred prvou kapitolou, ktorý automaticky vytvoril zoznam indexovaných pojmov.
 Tieto pojmy som indexoval pomocou elementov &lt;indexterm&gt; a následne v prípade primárneho &lt;primary&gt; a v prípade sekundárneho pomocou &lt;secondary&gt;.
 Na trasformáciu do výsledného formátu pdf som použil poskytnutú šablónu zo stránky predmetu.
-Pri písaní xml súboru som narazil na problém pri ktorom som nemohol uviesť do podkapitoly 4.4.1.1 pod obázok 4.1 ďaľšie 2 tabuľky,
+Pri písaní xml súboru som narazil na problém pri ktorom som nemohol uviesť do podkapitoly 4.4.1.1 pod obrázok 4.1 ďaľšie 2 tabuľky,
 pretože pri spustení .bat súboru na preklad zamrzol na riadku Making portrait pages on A4 paper (210mmx297mm) a nebol schopný dokončiť
 pomocný súbor fo.xml.
 
