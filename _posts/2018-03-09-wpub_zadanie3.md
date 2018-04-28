@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zadanie 2"
+title: "Zadanie 3"
 date: 2018-04-28
 categories: FIIT
 deadline: 2018-05-02 23:59
