@@ -33,7 +33,8 @@ ____
     - farba písma h1 a h2, každé sa dá nastaviť samostatne   
 	- farba pozadia prezentácie
 	- fonty písma h1,h2,p,li (každé samostatne)
-	- každý slajd je v samostatnom html súbore v priečinku presentation_in_xhtml. V tomto priečinku je aj css k prezentácií (**presentation.css**) v zložke CSS.
+	
+- každý slajd je v samostatnom html súbore v priečinku presentation_in_xhtml. V tomto priečinku je aj css k prezentácií (**presentation.css**) v zložke CSS.
 	
 ## Nesplnené požiadavky	
 - XSL transformácia do pdf 	
