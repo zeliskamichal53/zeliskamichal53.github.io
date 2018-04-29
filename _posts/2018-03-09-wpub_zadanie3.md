@@ -11,7 +11,7 @@ zdroj: https://wiki.fiit.stuba.sk/study/bc/info/wp/2017-18/zadanie3/
 ____
 ## Splnené požiadavky:
  - opis dokumentu je pomocou DTD v súbore presentation.xml
- <br/> <br/> <br/>
+ <br/> <br/>
    Root element je **presentation**, ktorý musí obsahovať **prvý slajd(first_slajd)** a **posledný slajd(last_slajd)** a môže obsahovať 
    **stredný slajd(middle_slajd)**, v ktorom
    môže byť ľubovoľný počet **obyčajných slajdov(next_slajd)**.
@@ -26,7 +26,7 @@ ____
  - ukážková prezentácia je v súbore presentation.xml
 
  - XSL transformácia do xhtml je v súbore toXHTML.xsl, parametrizácia je v súbore parametres.xsl
-<br/> <br/> <br/>
+<br/> <br/>
 	**Parametre:**
 	- číslovanie strán on/off
 	- veľkosť písma všetkých html elementov v prezentácií(h1,h2,p,li), každé sa dá nastaviť samostatne
