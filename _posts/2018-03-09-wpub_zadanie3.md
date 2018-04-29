@@ -9,10 +9,8 @@ zdroj: https://wiki.fiit.stuba.sk/study/bc/info/wp/2017-18/zadanie3/
 ---
 ## <a href="{{ page.zdroj }}">XML prezentácia</a>
 ____
-## Dokumentácia
-
-### Splnené požiadavky:
- - opis dokumentu je pomocou DTD v súbore presentation.xml
+## Splnené požiadavky:
+ - opis dokumentu je pomocou DTD v súbore presentation.xml\
  <br/>
    Root element je **presentation**, ktorý musí obsahovať **prvý slajd(first_slajd)** a **posledný slajd(last_slajd)** a môže obsahovať 
    **stredný slajd(middle_slajd)**, v ktorom
@@ -27,18 +25,18 @@ ____
    
  - ukážková prezentácia je v súbore presentation.xml
 
- - XSL transformácia do xhtml je v súbore toXHTML.xsl, parametrizácia je v súbore parametres.xsl
+ - XSL transformácia do xhtml je v súbore toXHTML.xsl, parametrizácia je v súbore parametres.xsl\
 <br/>
 	**Parametre:**
 	- číslovanie strán on/off
 	- veľkosť písma všetkých html elementov v prezentácií(h1,h2,p,li), každé sa dá nastaviť samostatne
     - farba písma h1 a h2, každé sa dá nastaviť samostatne   
 	- farba pozadia prezentácie
-	- fonty písma h1,h2,p,li (každé samostatne)
+	- fonty písma h1,h2,p,li (každé samostatne)\
 <br/>
 Každý slajd je v samostatnom html súbore v priečinku presentation_in_xhtml. V tomto priečinku je aj css k prezentácií (**presentation.css**) v zložke CSS.
 	
-### Nesplnené požiadavky	
+## Nesplnené požiadavky	
 - XSL transformácia do pdf 	
 	
    
